@@ -3,66 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bmd-lab.github.io/</loc>
+    <loc>https://www.bmd-lab.org/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/news/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/news/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/news/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/lee-burton/</loc>
+    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/</loc>
     <lastmod>2012-06-18T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bmd-lab.github.io/people/lee-burton/</loc>
-    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
+    <loc>https://www.bmd-lab.org/author/admin/</loc>
   </url>
   
   <url>
-    <loc>https://bmd-lab.github.io/people/</loc>
-    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
+    <loc>https://www.bmd-lab.org/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bmd-lab.github.io/author/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bmd-lab.github.io/authors/</loc>
+    <loc>https://www.bmd-lab.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bmd-lab.github.io/author/</loc>
+    <loc>https://www.bmd-lab.org/publication_types/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bmd-lab.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.bmd-lab.org/publications/</loc>
   </url>
   
   <url>
-    <loc>https://bmd-lab.github.io/news/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bmd-lab.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bmd-lab.github.io/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bmd-lab.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bmd-lab.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bmd-lab.github.io/authors/admin/</loc>
-    <priority>0</priority>
+    <loc>https://www.bmd-lab.org/talk/</loc>
   </url>
   
 </urlset>

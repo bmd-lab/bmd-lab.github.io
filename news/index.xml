@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on BMD-lab</title>
-    <link>https://bmd-lab.github.io/news/</link>
+    <link>https://www.bmd-lab.org/news/</link>
     <description>Recent content in Posts on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://bmd-lab.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bmd-lab.org/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://www.bmd-lab.org/news/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/news/jupyter/</guid>
+      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>https://www.bmd-lab.org/news/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/news/getting-started/</guid>
+      <description>Create a beautifully simple website in under 10 minutes.</description>
+    </item>
     
   </channel>
 </rss>
