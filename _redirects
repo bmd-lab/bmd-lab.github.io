@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://bmd-lab.netlify.com/* https://www.bmd-lab.org/:splat 301!
