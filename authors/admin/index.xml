@@ -6,27 +6,27 @@
     <description>Recent content in admin on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://www.bmd-lab.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://www.bmd-lab.org/news/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Lee Burton wins Eastern Young Scholar Award 2018</title>
+      <link>https://www.bmd-lab.org/news/eysaward/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://www.bmd-lab.org/news/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
+      <guid>https://www.bmd-lab.org/news/eysaward/</guid>
+      <description>The Eastern Young Scholar award is a 3-year early-career fellowship for scientists working in the east of China.</description>
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://www.bmd-lab.org/news/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <title>Lee Burton wins EU Seal of Excellence award 2017</title>
+      <link>https://www.bmd-lab.org/news/soeaward/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0800</pubDate>
       
-      <guid>https://www.bmd-lab.org/news/getting-started/</guid>
-      <description>Create a beautifully simple website in under 10 minutes.</description>
+      <guid>https://www.bmd-lab.org/news/soeaward/</guid>
+      <description>The Seal of Excellence award is issued by the European Commission as an endorsement of scientists for future grant applications.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       
       <guid>https://www.bmd-lab.org/author/admin/</guid>
       <description>Data-driven discovery for materials and semiconductors.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+We are always interested in hiring talented and driven scientists at any level. If interested we can be reached by the contact form below.</description>
     </item>
     
   </channel>

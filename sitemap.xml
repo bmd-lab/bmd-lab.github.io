@@ -9,19 +9,31 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/tags/award/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/news/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://www.bmd-lab.org/news/eysaward/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.bmd-lab.org/news/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,20 +43,8 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/tags/academic/</loc>
+    <loc>https://www.bmd-lab.org/news/soeaward/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/news/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
