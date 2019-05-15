@@ -30,13 +30,23 @@
     </item>
     
     <item>
+      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
+      <link>https://www.bmd-lab.org/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/publication/journal-article/</guid>
+      <description>Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://www.bmd-lab.org/author/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.bmd-lab.org/author/admin/</guid>
-      <description>Data-driven discovery for materials and semiconductors.
-We are always interested in hiring talented and driven scientists at any level. If interested we can be reached by the contact form below.</description>
+      <description>Our focus is the data-driven discovery of materials and semiconductors.
+This means we use computers to model solids and predict their properties before they have even been made.
+We are always interested in hiring talented and driven scientists at any level. If you&amp;rsquo;re interested, we can be reached by the contact form below.</description>
     </item>
     
   </channel>

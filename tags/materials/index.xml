@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materials on BMD-lab</title>
+    <link>https://www.bmd-lab.org/tags/materials/</link>
+    <description>Recent content in Materials on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/tags/materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
+      <link>https://www.bmd-lab.org/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/publication/journal-article/</guid>
+      <description>Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known.</description>
+    </item>
+    
+  </channel>
+</rss>

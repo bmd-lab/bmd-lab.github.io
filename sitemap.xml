@@ -48,6 +48,34 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/materials/</loc>
+    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/publication_types/</loc>
+    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/publication/</loc>
+    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/people/lee-burton/</loc>
     <lastmod>2012-06-18T00:00:00+08:00</lastmod>
   </url>
@@ -56,6 +84,23 @@
     <loc>https://www.bmd-lab.org/people/</loc>
     <lastmod>2012-06-18T00:00:00+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/professor/</loc>
+    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/support/</loc>
+    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/xiaoyan-gao/</loc>
+    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -70,15 +115,6 @@
   <url>
     <loc>https://www.bmd-lab.org/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/publications/</loc>
   </url>
   
   <url>
