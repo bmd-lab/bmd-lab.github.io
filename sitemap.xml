@@ -108,12 +108,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/author/lee/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.bmd-lab.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/authors/lee/</loc>
     <priority>0</priority>
   </url>
   
