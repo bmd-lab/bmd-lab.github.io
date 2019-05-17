@@ -6,10 +6,159 @@
     <description>Recent content on BMD-lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://www.bmd-lab.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Published papers</title>
+      <link>https://www.bmd-lab.org/papers/full-list/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/papers/full-list/</guid>
+      <description>&lt;p&gt;See below for full list of papers published&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;Journal&lt;/th&gt;
+&lt;th&gt;Year&lt;/th&gt;
+&lt;th&gt;URL&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Thermodynamics, electronic structure and vibrational properties of Sn&lt;sub&gt;n&lt;/sub&gt;(S&lt;sub&gt;1-x&lt;/sub&gt;Se&lt;sub&gt;x&lt;/sub&gt;)&lt;sub&gt;m&lt;/sub&gt; solid solutions for energy applications&lt;/td&gt;
+&lt;td&gt;Chemistry of Materials&lt;/td&gt;
+&lt;td&gt;2019&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/acs.chemmater.9b00362&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;High-throughput identification of electrides from all known inorganic materials&lt;/td&gt;
+&lt;td&gt;Chemistry of Materials&lt;/td&gt;
+&lt;td&gt;2018&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.8b02526&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Chemical and lattice stability of the tin sulfides&lt;/td&gt;
+&lt;td&gt;Journal of Physical Chemistry C&lt;/td&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b12581&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Metastable cubic tin sulfide: A novel phonon-stable chiral semiconductor&lt;/td&gt;
+&lt;td&gt;APL Materials&lt;/td&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://aip.scitation.org/doi/abs/10.1063/1.4977868&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lattice dynamics of the tin sulphides SnS&lt;sub&gt;2&lt;/sub&gt;, SnS and Sn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;: vibrational spectra and thermal transport&lt;/td&gt;
+&lt;td&gt;Physical Chemistry Chemical Physics&lt;/td&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.rsc.org/en/content/articlehtml/2017/cp/c7cp01680h&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;DFT investigation into the underperformance of sulfide materials in photovoltaic applications&lt;/td&gt;
+&lt;td&gt;Journal of Materials Chemistry A&lt;/td&gt;
+&lt;td&gt;2017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.rsc.org/en/content/articlehtml/2016/ta/c7ta00673j&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Anharmonicity in the High-Temperature &lt;em&gt;Cmcm&lt;/em&gt; Phase of SnSe: Soft Modes and Three-Phonon Interactions&lt;/td&gt;
+&lt;td&gt;Physical Review Letters&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.075502&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Electronic Structure and Defect Physics of Tin Sulfides: SnS, Sn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;, and SnS&lt;sub&gt;2&lt;/sub&gt;&lt;/td&gt;
+&lt;td&gt;Physical Review Applied&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.6.014009&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Discovery of earth-abundant nitride semiconductors by computational screening and high-pressure synthesis&lt;/td&gt;
+&lt;td&gt;Nature Communications&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.nature.com/articles/ncomms11962&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Band Alignments, Valence Bands, and Core Levels in the Tin Sulfides SnS, SnS&lt;sub&gt;2&lt;/sub&gt;, and Sn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;: Experiment and Theory&lt;/td&gt;
+&lt;td&gt;Chemistry of Materials&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.6b00397&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Electronic and optical properties of single crystal SnS&lt;sub&gt;2&lt;/sub&gt;: an earth-abundant disulfide photocatalyst&lt;/td&gt;
+&lt;td&gt;Journal of Materials Chemistry A&lt;/td&gt;
+&lt;td&gt;2016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.rsc.org/en/content/articlehtml/2015/ta/c5ta08214e&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Assessment of polyanion (BF&lt;sup&gt;4-&lt;/sup&gt; and PF&lt;sup&gt;6-&lt;/sup&gt; ) substitutions in hybrid halide perovskites&lt;/td&gt;
+&lt;td&gt;Journal of Materials Chemistry A&lt;/td&gt;
+&lt;td&gt;2015&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.rsc.org/en/content/articlehtml/2014/ta/c4ta05284f&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Ellipsometric characterization and density-functional theory analysis of anisotropic optical properties of single-crystal α-SnS&lt;/td&gt;
+&lt;td&gt;Journal of Applied Physics&lt;/td&gt;
+&lt;td&gt;2014&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://aip.scitation.org/doi/abs/10.1063/1.4886915&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;From kesterite to stannite photovoltaics: Stability and band gaps of the Cu2(Zn,Fe)SnS&lt;sub&gt;4&lt;/sub&gt; alloy&lt;/td&gt;
+&lt;td&gt;Applied Physics Letters&lt;/td&gt;
+&lt;td&gt;2014&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://aip.scitation.org/doi/abs/10.1063/1.4862030&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Synthesis, characterization, and electronic structure of single-crystal SnS, Sn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;, and SnS&lt;sub&gt;2&lt;/sub&gt;&lt;/td&gt;
+&lt;td&gt;Chemistry of Materials&lt;/td&gt;
+&lt;td&gt;2013&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/cm403046m&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Band alignment in SnS thin-film solar cells: Possible origin of the low conversion efficiency&lt;/td&gt;
+&lt;td&gt;Applied Physics Letters&lt;/td&gt;
+&lt;td&gt;2013&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://aip.scitation.org/doi/abs/10.1063/1.4801313&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Phase Stability of the Earth-Abundant Tin Sulfides SnS, SnS&lt;sub&gt;2&lt;/sub&gt;, and Sn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;&lt;/td&gt;
+&lt;td&gt;Journal of Physical Chemistry C&lt;/td&gt;
+&lt;td&gt;2012&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://pubs.acs.org.ccindex.cn/doi/abs/10.1021/jp309154s&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;A photoactive titanate with a stereochemically active Sn lone pair: Electronic and crystal structure of Sn&lt;sub&gt;2&lt;/sub&gt;TiO&lt;sub&gt;4&lt;/sub&gt; from computational chemistry&lt;/td&gt;
+&lt;td&gt;Journal of Solid State Chemistry&lt;/td&gt;
+&lt;td&gt;2012&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S002245961200388X&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Lee Burton wins Eastern Young Scholar Award 2018</title>
@@ -18,6 +167,23 @@
       
       <guid>https://www.bmd-lab.org/news/eysaward/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
+      <link>https://www.bmd-lab.org/featured/journal-article/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/featured/journal-article/</guid>
+      <description>&lt;p&gt;Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known.&lt;/p&gt;
+
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    #Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
+#
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,10 +197,10 @@
     
     <item>
       <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
-      <link>https://www.bmd-lab.org/publication/journal-article/</link>
+      <link>https://www.bmd-lab.org/papers/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
       
-      <guid>https://www.bmd-lab.org/publication/journal-article/</guid>
+      <guid>https://www.bmd-lab.org/papers/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.

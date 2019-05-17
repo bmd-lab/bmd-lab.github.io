@@ -3,6 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.bmd-lab.org/</loc>
+    <lastmod>2019-05-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/papers/</loc>
+    <lastmod>2019-05-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/papers/full-list/</loc>
+    <lastmod>2019-05-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/authors/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
     <priority>0</priority>
@@ -10,12 +32,6 @@
   
   <url>
     <loc>https://www.bmd-lab.org/tags/award/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -43,35 +59,40 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/news/soeaward/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <lastmod>2018-10-10T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <loc>https://www.bmd-lab.org/featured/journal-article/</loc>
+    <lastmod>2018-10-10T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.bmd-lab.org/tags/materials/</loc>
-    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <lastmod>2018-10-10T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.bmd-lab.org/publication_types/</loc>
-    <lastmod>2015-09-01T00:00:00+08:00</lastmod>
+    <lastmod>2018-10-10T00:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/publication/</loc>
+    <loc>https://www.bmd-lab.org/featured/</loc>
+    <lastmod>2018-10-10T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/news/soeaward/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/papers/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+08:00</lastmod>
   </url>
   
