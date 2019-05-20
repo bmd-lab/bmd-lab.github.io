@@ -9,12 +9,22 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/news/</loc>
+    <lastmod>2019-05-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/papers/</loc>
     <lastmod>2019-05-17T00:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.bmd-lab.org/papers/full-list/</loc>
+    <lastmod>2019-05-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/news/full-list/</loc>
     <lastmod>2019-05-17T00:00:00+08:00</lastmod>
   </url>
   
@@ -37,12 +47,17 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/featured_news/eysaward/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/news/eysaward/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/news/</loc>
+    <loc>https://www.bmd-lab.org/featured_news/</loc>
     <lastmod>2019-04-17T00:00:00+08:00</lastmod>
   </url>
   
@@ -84,6 +99,11 @@
   <url>
     <loc>https://www.bmd-lab.org/featured/</loc>
     <lastmod>2018-10-10T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/featured_news/soeaward/</loc>
+    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
   </url>
   
   <url>
