@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on BMD-lab</title>
+    <title>BMD-lab</title>
     <link>https://www.bmd-lab.org/authors/</link>
-    <description>Recent content in Authors on BMD-lab</description>
+    <description>Recent content on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0800</lastBuildDate>
@@ -12,30 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://www.bmd-lab.org/authors/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0800</pubDate>
+      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
+      <link>https://www.bmd-lab.org/featured/journal-article/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://www.bmd-lab.org/authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>https://www.bmd-lab.org/authors/admin/</link>
-      <pubDate>Sat, 20 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.bmd-lab.org/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lee</title>
-      <link>https://www.bmd-lab.org/authors/lee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.bmd-lab.org/authors/lee/</guid>
-      <description></description>
+      <guid>https://www.bmd-lab.org/featured/journal-article/</guid>
+      <description>Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known.</description>
     </item>
     
   </channel>
