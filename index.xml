@@ -225,18 +225,11 @@
     
     <item>
       <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
-      <link>https://www.bmd-lab.org/featured/journal-article/</link>
+      <link>https://www.bmd-lab.org/featured/article/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://www.bmd-lab.org/featured/journal-article/</guid>
-      <description>&lt;p&gt;Analyzing a database of density functional theory results on more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known.&lt;/p&gt;
-
-&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    #Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.
-#
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+      <guid>https://www.bmd-lab.org/featured/article/</guid>
+      <description>&lt;p&gt;In this paper, we present the results of a large-scale, high-throughput computational search for electrides among all known inorganic materials. Analyzing a database of density functional theory results on more than 60,000 compounds, we identify 65 new electride candidates and recover 4 already known. We report on all these candidates and discuss the structural and chemical factors leading to electride formation. Among these candidates, our work identifies the first partially filled 3d transition-metal-containing electrides Ba&lt;sub&gt;3&lt;/sub&gt;CrN&lt;sub&gt;3&lt;/sub&gt; and Sr&lt;sub&gt;3&lt;/sub&gt;CrN&lt;sub&gt;3&lt;/sub&gt;, an unexpected finding that contravenes conventional chemistry.&lt;/p&gt;
 </description>
     </item>
     
