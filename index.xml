@@ -12,6 +12,34 @@
     
     
     <item>
+      <title>Group Files</title>
+      <link>https://www.bmd-lab.org/files/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/files/</guid>
+      <description>&lt;p&gt;See below for a list of group files.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;type&lt;/th&gt;
+&lt;th&gt;URL&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Lee Burton&amp;rsquo;s CV&lt;/td&gt;
+&lt;td&gt;PDF&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.bmd-lab.org/img/icqms2.png&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Published papers</title>
       <link>https://www.bmd-lab.org/papers/full-list/</link>
       <pubDate>Fri, 17 May 2019 00:00:00 +0800</pubDate>
