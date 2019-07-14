@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Group Files on BMD-lab</title>
-    <link>https://www.bmd-lab.org/files/</link>
-    <description>Recent content in Group Files on BMD-lab</description>
+    <title>Supporting us on BMD-lab</title>
+    <link>https://www.bmd-lab.org/donate/</link>
+    <description>Recent content in Supporting us on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 May 2019 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://www.bmd-lab.org/files/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bmd-lab.org/donate/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
