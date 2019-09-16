@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BMD-lab</title>
+    <title>Authors on BMD-lab</title>
     <link>https://www.bmd-lab.org/authors/</link>
-    <description>Recent content on BMD-lab</description>
+    <description>Recent content in Authors on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://www.bmd-lab.org/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
-      <link>https://www.bmd-lab.org/featured/article/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0100</pubDate>
+      <title>admin</title>
+      <link>https://www.bmd-lab.org/authors/admin/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>https://www.bmd-lab.org/featured/article/</guid>
-      <description>Analyzing a database of more than 60 000 compounds, we identify 65 new electride candidates and recover 4 already known.</description>
+      <guid>https://www.bmd-lab.org/authors/admin/</guid>
+      <description></description>
     </item>
     
   </channel>
