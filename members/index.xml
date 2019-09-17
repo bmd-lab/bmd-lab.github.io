@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on BMD-lab</title>
+    <link>https://www.bmd-lab.org/members/</link>
+    <description>Recent content in Members on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/cuicui/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/cuicui/</guid>
+      <description>Hello!</description>
+    </item>
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/lee/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/lee/</guid>
+      <description>Hello!</description>
+    </item>
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/miaoting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/miaoting/</guid>
+      <description>Hello!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content on BMD-lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://www.bmd-lab.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cuicui Wang</title>
+      <link>https://www.bmd-lab.org/people/cuicui-wang/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/people/cuicui-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miaoting Xu</title>
+      <link>https://www.bmd-lab.org/people/miaoting-xu/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/people/miaoting-xu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Published papers</title>
@@ -229,10 +247,28 @@
     
     <item>
       <title>Members Page</title>
-      <link>https://www.bmd-lab.org/members/</link>
+      <link>https://www.bmd-lab.org/members/cuicui/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.bmd-lab.org/members/</guid>
+      <guid>https://www.bmd-lab.org/members/cuicui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/lee/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/miaoting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/miaoting/</guid>
       <description></description>
     </item>
     

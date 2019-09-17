@@ -4,7 +4,32 @@
   
   <url>
     <loc>https://www.bmd-lab.org/</loc>
-    <lastmod>2019-05-17T00:00:00+08:00</lastmod>
+    <lastmod>2019-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/cuicui-wang/</loc>
+    <lastmod>2019-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/miaoting-xu/</loc>
+    <lastmod>2019-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/</loc>
+    <lastmod>2019-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/student/</loc>
+    <lastmod>2019-09-17T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/</loc>
+    <lastmod>2019-09-17T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -68,12 +93,22 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+08:00</lastmod>
+    <loc>https://www.bmd-lab.org/members/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/members/</loc>
+    <loc>https://www.bmd-lab.org/members/cuicui/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/members/lee/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/members/miaoting/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/people/</loc>
-    <lastmod>2012-06-18T00:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/tags/professor/</loc>
     <lastmod>2012-06-18T00:00:00+08:00</lastmod>
   </url>
@@ -147,7 +177,15 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/author/cuicui/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/author/lee/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/author/miaoting/</loc>
   </url>
   
   <url>
