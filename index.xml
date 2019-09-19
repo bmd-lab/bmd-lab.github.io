@@ -6,10 +6,28 @@
     <description>Recent content on BMD-lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://www.bmd-lab.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lee A. Burton</title>
+      <link>https://www.bmd-lab.org/people/lee-burton/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/people/lee-burton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoyan Gao</title>
+      <link>https://www.bmd-lab.org/people/xiaoyan-gao/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/people/xiaoyan-gao/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cuicui Wang</title>
@@ -273,6 +291,15 @@
     </item>
     
     <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/xiaoyan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/xiaoyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
       <link>https://www.bmd-lab.org/featured/article/</link>
       <pubDate>Wed, 10 Oct 2018 00:00:00 +0800</pubDate>
@@ -313,24 +340,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Lee A. Burton</title>
-      <link>https://www.bmd-lab.org/people/lee-burton/</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.bmd-lab.org/people/lee-burton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xiaoyan Gao</title>
-      <link>https://www.bmd-lab.org/people/xiaoyan-gao/</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.bmd-lab.org/people/xiaoyan-gao/</guid>
-      <description></description>
     </item>
     
   </channel>

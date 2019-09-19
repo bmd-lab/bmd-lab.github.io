@@ -6,10 +6,19 @@
     <description>Recent content in Tags on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://www.bmd-lab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Support</title>
+      <link>https://www.bmd-lab.org/tags/support/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/tags/support/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Student</title>
@@ -44,15 +53,6 @@
       <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
       
       <guid>https://www.bmd-lab.org/tags/professor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Support</title>
-      <link>https://www.bmd-lab.org/tags/support/</link>
-      <pubDate>Mon, 18 Jun 2012 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.bmd-lab.org/tags/support/</guid>
       <description></description>
     </item>
     
