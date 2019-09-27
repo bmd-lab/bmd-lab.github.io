@@ -30,6 +30,93 @@
     </item>
     
     <item>
+      <title>All news</title>
+      <link>https://www.bmd-lab.org/news/full-list/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://www.bmd-lab.org/news/full-list/</guid>
+      <description>&lt;p&gt;See below for full list of recent news&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;News&lt;/th&gt;
+&lt;th&gt;Date &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.bmd-lab.org/members/miaoting&#34;&gt;Miaoting Xu&lt;/a&gt; and &lt;a href=&#34;https://www.bmd-lab.org/members/cuicui&#34;&gt;Cuicui Wang&lt;/a&gt; begin as master students at BMD.&lt;/td&gt;
+&lt;td&gt;Sep. &amp;nbsp; 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lee Burton is a tutorial leader at the Summer School for Computational Materials Design.      (&lt;a  href=&#34;javascript:void(0)&#34; id=&#34;myBtn1&#34;&gt;Photo&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;Aug.  &amp;nbsp; 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lee Burton is an invited speaker at the 6th Asian Materials Data Symposium.  (&lt;a  href=&#34;javascript:void(0)&#34; id=&#34;myBtn2&#34;&gt;Photo&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;Apr. &amp;nbsp; 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lee Burton begins as Associate Professor at Shanghai University.&lt;/td&gt;
+&lt;td&gt;Feb. &amp;nbsp; 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lee Burton wins Shanghai Municipal Government Eastern Young Scholar Award.&lt;/td&gt;
+&lt;td&gt;Dec. &amp;nbsp; 2018&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Lee Burton wins European Commission Seal of Excellence Award.&lt;/td&gt;
+&lt;td&gt;Sep. &amp;nbsp; 2017&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;html&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;theme.css&#34;&gt;
+&lt;style&gt;&lt;/p&gt;
+
+&lt;p&gt;body {font-family: Arial, Helvetica, sans-serif;}&lt;/p&gt;
+
+&lt;p&gt;&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;!-- The Modal --&gt;
+
+&lt;div id=&#34;myModal1&#34; class=&#34;modal&#34;&gt;
+  &lt;span class=&#34;close&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;img class=&#34;modal-content&#34; id=&#34;img01&#34;&gt;
+  &lt;div id=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- The Modal --&gt;
+
+&lt;div id=&#34;myModal2&#34; class=&#34;modal&#34;&gt;
+  &lt;span class=&#34;close&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;img class=&#34;modal-content&#34; id=&#34;img02&#34;&gt;
+  &lt;div id=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script src=&#34;myscript.js&#34;&gt;&lt;/script&gt; 
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cuicui Wang</title>
       <link>https://www.bmd-lab.org/people/cuicui-wang/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0800</pubDate>
@@ -45,52 +132,6 @@
       
       <guid>https://www.bmd-lab.org/people/miaoting-xu/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Recent news</title>
-      <link>https://www.bmd-lab.org/news/full-list/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://www.bmd-lab.org/news/full-list/</guid>
-      <description>&lt;p&gt;See below for full list of recent news&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;News&lt;/th&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Lee Burton is a tutorial leader at summer school in materials design &lt;a href=&#34;http://slxy.usts.edu.cn/info/1148/1427.htm&#34; target=&#34;_blank&#34;&gt;(link)&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Aug. 2019&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Lee Burton is invited speaker at the 6th Asian Materials Data Symposium.&lt;/td&gt;
-&lt;td&gt;Apr. 2019&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Lee Burton begins as Associate Professor at Shanghai University.&lt;/td&gt;
-&lt;td&gt;Feb. 2019&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Lee Burton wins Shanghai Municipal Government Eastern Young Scholar Award.&lt;/td&gt;
-&lt;td&gt;Dec. 2018&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Lee Burton wins European Commission Seal of Excellence Award.&lt;/td&gt;
-&lt;td&gt;Sep. 2017&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
     </item>
     
     <item>
