@@ -98,7 +98,7 @@ var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
 btn.onclick = function(){
   modal.style.display = "block";
-  modalImg.src = "/img/ISMS.png";
+  modalImg.src = "/img/ISMS.jpg";
   captionText.innerHTML = "International Symposium on Materials Science 2019";
 }
 
