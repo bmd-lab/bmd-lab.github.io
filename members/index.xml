@@ -47,5 +47,14 @@
       <description>Hello!</description>
     </item>
     
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/yuding/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/yuding/</guid>
+      <description>Hello!</description>
+    </item>
+    
   </channel>
 </rss>
