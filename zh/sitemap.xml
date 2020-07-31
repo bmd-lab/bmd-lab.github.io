@@ -93,21 +93,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/tags/staff/</loc>
-    <lastmod>2019-09-19T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/staff/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/staff/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/zh/tags/</loc>
     <lastmod>2019-09-19T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -120,6 +105,11 @@
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/zh/tags/%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98/</loc>
+    <lastmod>2019-09-19T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -153,18 +143,8 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/tags/student/</loc>
+    <loc>https://www.bmd-lab.org/zh/tags/%E5%AD%A6%E7%94%9F/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/student/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/student/"
-                />
   </url>
   
   <url>
@@ -558,18 +538,8 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/tags/professor/</loc>
+    <loc>https://www.bmd-lab.org/zh/tags/%E6%95%99%E6%8E%88/</loc>
     <lastmod>2012-06-18T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/professor/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/professor/"
-                />
   </url>
   
   <url>
