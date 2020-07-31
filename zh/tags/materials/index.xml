@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materials on BMD-lab</title>
+    <link>https://www.bmd-lab.org/zh/tags/materials/</link>
+    <description>Recent content in Materials on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/zh/tags/materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
+      <link>https://www.bmd-lab.org/zh/featured/article/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/zh/featured/article/</guid>
+      <description>通过分析包含60,000多种化合物的数据库，我们确定了65个新的候选候选物，并回收了4个已知的候选物。</description>
+    </item>
+    
+    <item>
+      <title>High-Throughput Identification of Electrides from All Known Inorganic Materials</title>
+      <link>https://www.bmd-lab.org/zh/papers/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/zh/papers/journal-article/</guid>
+      <description>分析密度泛函理论的数据库得出的关于60,000多种化合物的信息，我们确定了65个新的候选候选物，并回收了4个已知的候选物。</description>
+    </item>
+    
+  </channel>
+</rss>
