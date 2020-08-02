@@ -113,21 +113,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/news/full-list/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/news/full-list/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/news/full-list/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/zh/news/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -163,6 +148,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/zh/news/full-list/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/news/full-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/news/full-list/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/zh/people/cuicui-wang/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -174,21 +174,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/people/cuicui-wang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/zh/files/</loc>
-    <lastmod>2019-05-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/files/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/files/"
                 />
   </url>
   
@@ -208,6 +193,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/zh/donate/</loc>
+    <lastmod>2019-05-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/donate/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/donate/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/zh/papers/full-list/</loc>
     <lastmod>2019-05-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -223,17 +223,17 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/donate/</loc>
+    <loc>https://www.bmd-lab.org/zh/files/</loc>
     <lastmod>2019-05-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bmd-lab.org/donate/"
+                href="https://www.bmd-lab.org/files/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.bmd-lab.org/zh/donate/"
+                href="https://www.bmd-lab.org/zh/files/"
                 />
   </url>
   
