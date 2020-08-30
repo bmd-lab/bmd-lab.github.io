@@ -71,7 +71,7 @@
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Lee Burton is feature of footage for Shanghai University promotion. (&lt;a  href=&#34;javascript:void(0)&#34; id=&#34;myBtn6&#34;&gt;Video&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;Lee Burton is feature of footage for Shanghai University promotion. &lt;a href=&#34;https://www.bmd-lab.org/news/shu_video&#34;&gt;(link)&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Feb. &amp;nbsp; 2020&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -181,6 +181,38 @@
       
       <guid>https://www.bmd-lab.org/people/miaoting-xu/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>SHU video</title>
+      <link>https://www.bmd-lab.org/news/shu_video/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/news/shu_video/</guid>
+      <description>
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;https://www.bmd-lab.org/img/LB_SHU.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+</description>
     </item>
     
     <item>
