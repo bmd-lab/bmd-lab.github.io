@@ -173,11 +173,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/news/shu_video/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/tags/student/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
   </url>
@@ -330,6 +325,11 @@
                 hreflang="en"
                 href="https://www.bmd-lab.org/featured_news/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/news/bmd_video/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
