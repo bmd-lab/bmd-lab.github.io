@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/zh/people/cuicui-wang/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/cuicui-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/cuicui-wang/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/zh/featured_news/nsfcaward/</loc>
     <lastmod>2019-04-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -59,6 +74,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/featured_news/nsfcaward/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/zh/people/miaoting-xu/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/miaoting-xu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/miaoting-xu/"
                 />
   </url>
   
@@ -178,21 +208,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/people/miaoting-xu/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/people/miaoting-xu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/miaoting-xu/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/zh/news/full-list/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -204,21 +219,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/news/full-list/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/zh/people/cuicui-wang/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/people/cuicui-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/cuicui-wang/"
                 />
   </url>
   
