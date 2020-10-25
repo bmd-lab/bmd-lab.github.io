@@ -95,11 +95,31 @@
   <url>
     <loc>https://www.bmd-lab.org/people/zhikun-yao/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/zhikun-yao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/zhikun-yao/"
+                />
   </url>
   
   <url>
     <loc>https://www.bmd-lab.org/people/yanzhen-zhao/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/yanzhen-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/yanzhen-zhao/"
+                />
   </url>
   
   <url>
@@ -185,6 +205,16 @@
   <url>
     <loc>https://www.bmd-lab.org/tags/student/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/tags/student/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/tags/student/"
+                />
   </url>
   
   <url>
@@ -420,6 +450,16 @@
   <url>
     <loc>https://www.bmd-lab.org/members/yanzhenzhao/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/members/yanzhenzhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/yanzhenzhao/"
+                />
   </url>
   
   <url>
@@ -440,6 +480,16 @@
   <url>
     <loc>https://www.bmd-lab.org/members/zhikunyao/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/members/zhikunyao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/zhikunyao/"
+                />
   </url>
   
   <url>
@@ -639,6 +689,16 @@
   
   <url>
     <loc>https://www.bmd-lab.org/author/yanzhenzhao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/author/yanzhenzhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/yanzhenzhao/"
+                />
   </url>
   
   <url>
@@ -657,6 +717,16 @@
   
   <url>
     <loc>https://www.bmd-lab.org/author/zhikunyao/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/author/zhikunyao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/zhikunyao/"
+                />
   </url>
   
   <url>
