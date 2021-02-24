@@ -122,8 +122,8 @@ var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
 btn.onclick = function(){
   modal.style.display = "block";
-  modalImg.src = "/img/LB_SHU.mp4";
-  captionText.innerHTML = "Lee Burton feature material 2020";
+  modalImg.src = "/img/QIF2019.jpg";
+  captionText.innerHTML = "Quantum International Frontiers 2019";
 }
 
 // Get the <span> element that closes the modal
