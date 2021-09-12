@@ -31,10 +31,10 @@
     
     <item>
       <title>丁宇</title>
-      <link>https://www.bmd-lab.org/zh/people/yu-ding/</link>
+      <link>https://www.bmd-lab.org/zh/yu-ding/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://www.bmd-lab.org/zh/people/yu-ding/</guid>
+      <guid>https://www.bmd-lab.org/zh/yu-ding/</guid>
       <description></description>
     </item>
     
@@ -90,6 +90,15 @@
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
       
       <guid>https://www.bmd-lab.org/zh/people/michael-staines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>张文君</title>
+      <link>https://www.bmd-lab.org/zh/people/wenjun-zhang/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/zh/people/wenjun-zhang/</guid>
       <description></description>
     </item>
     
@@ -203,6 +212,70 @@
 &lt;tr&gt;
 &lt;td&gt;Lee Burton获得欧盟委员会优秀奖。&lt;/td&gt;
 &lt;td&gt;09/ &amp;nbsp; 2017&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;html&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;theme.css&#34;&gt;
+&lt;style&gt;&lt;/p&gt;
+
+&lt;p&gt;body {font-family: Arial, Helvetica, sans-serif;}&lt;/p&gt;
+
+&lt;p&gt;&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;!-- The Modal --&gt;
+
+&lt;div id=&#34;myModal1&#34; class=&#34;modal&#34;&gt;
+  &lt;span class=&#34;close&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;img class=&#34;modal-content&#34; id=&#34;img01&#34;&gt;
+  &lt;div id=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- The Modal --&gt;
+
+&lt;div id=&#34;myModal2&#34; class=&#34;modal&#34;&gt;
+  &lt;span class=&#34;close&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;img class=&#34;modal-content&#34; id=&#34;img02&#34;&gt;
+  &lt;div id=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script src=&#34;myscript.js&#34;&gt;&lt;/script&gt; 
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>校友和以前的小组成员</title>
+      <link>https://www.bmd-lab.org/zh/alumni/full-list/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/zh/alumni/full-list/</guid>
+      <description>&lt;p&gt;请参阅下面的以前小组成员的完整列表&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;姓名&lt;/th&gt;
+&lt;th&gt;工作  &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+&lt;th&gt;日期  &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.bmd-lab.org/zh/members/yuding&#34;&gt;丁宇&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;研究助理&lt;/td&gt;
+&lt;td&gt;04/2020 - 09/2021&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -521,6 +594,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.bmd-lab.org/zh/members/michaelstaines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/zh/members/wenjunzhang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/zh/members/wenjunzhang/</guid>
       <description></description>
     </item>
     

@@ -31,10 +31,10 @@
     
     <item>
       <title>Yu Ding</title>
-      <link>https://www.bmd-lab.org/people/yu-ding/</link>
+      <link>https://www.bmd-lab.org/yu-ding/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://www.bmd-lab.org/people/yu-ding/</guid>
+      <guid>https://www.bmd-lab.org/yu-ding/</guid>
       <description></description>
     </item>
     
@@ -90,6 +90,15 @@
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
       
       <guid>https://www.bmd-lab.org/people/michael-staines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenjun Zhang</title>
+      <link>https://www.bmd-lab.org/people/wenjun-zhang/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/people/wenjun-zhang/</guid>
       <description></description>
     </item>
     
@@ -208,6 +217,70 @@
 &lt;tr&gt;
 &lt;td&gt;Lee Burton wins European Commission Seal of Excellence Award.&lt;/td&gt;
 &lt;td&gt;Sep. &amp;nbsp; 2017&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;html&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+  &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;theme.css&#34;&gt;
+&lt;style&gt;&lt;/p&gt;
+
+&lt;p&gt;body {font-family: Arial, Helvetica, sans-serif;}&lt;/p&gt;
+
+&lt;p&gt;&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;&lt;/p&gt;
+
+&lt;!-- The Modal --&gt;
+
+&lt;div id=&#34;myModal1&#34; class=&#34;modal&#34;&gt;
+  &lt;span class=&#34;close&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;img class=&#34;modal-content&#34; id=&#34;img01&#34;&gt;
+  &lt;div id=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- The Modal --&gt;
+
+&lt;div id=&#34;myModal2&#34; class=&#34;modal&#34;&gt;
+  &lt;span class=&#34;close&#34;&gt;&amp;times;&lt;/span&gt;
+  &lt;img class=&#34;modal-content&#34; id=&#34;img02&#34;&gt;
+  &lt;div id=&#34;caption&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script src=&#34;myscript.js&#34;&gt;&lt;/script&gt; 
+
+&lt;p&gt;&lt;/body&gt;
+&lt;/html&gt;
+&lt;/html&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alumni and previous group members</title>
+      <link>https://www.bmd-lab.org/alumni/full-list/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/alumni/full-list/</guid>
+      <description>&lt;p&gt;See below for full list of previous group members&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Role &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+&lt;th&gt;Dates  &amp;nbsp; &amp;nbsp;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.bmd-lab.org/members/yuding&#34;&gt;Yu Ding&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Research  Assistant&lt;/td&gt;
+&lt;td&gt;Apr. 2020 - Sept. 2021&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -558,6 +631,15 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.bmd-lab.org/members/michaelstaines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Members Page</title>
+      <link>https://www.bmd-lab.org/members/wenjunzhang/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bmd-lab.org/members/wenjunzhang/</guid>
       <description></description>
     </item>
     

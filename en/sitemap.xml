@@ -33,17 +33,17 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/people/yu-ding/</loc>
+    <loc>https://www.bmd-lab.org/yu-ding/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/yu-ding/"
+                href="https://www.bmd-lab.org/zh/yu-ding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bmd-lab.org/people/yu-ding/"
+                href="https://www.bmd-lab.org/yu-ding/"
                 />
   </url>
   
@@ -138,6 +138,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/people/wenjun-zhang/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/wenjun-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/wenjun-zhang/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/</loc>
     <lastmod>2019-09-19T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -203,6 +218,36 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/alumni/full-list/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/alumni/full-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/alumni/full-list/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/alumni/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/alumni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/alumni/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/news/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -220,16 +265,6 @@
   <url>
     <loc>https://www.bmd-lab.org/tags/student/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/student/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/student/"
-                />
   </url>
   
   <url>
@@ -459,6 +494,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/members/michaelstaines/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/members/wenjunzhang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/members/wenjunzhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/wenjunzhang/"
                 />
   </url>
   
@@ -714,6 +764,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/author/michaelstaines/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/author/wenjunzhang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/author/wenjunzhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/wenjunzhang/"
                 />
   </url>
   

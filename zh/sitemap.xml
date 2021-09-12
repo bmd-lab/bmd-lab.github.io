@@ -33,17 +33,17 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/zh/people/yu-ding/</loc>
+    <loc>https://www.bmd-lab.org/zh/yu-ding/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bmd-lab.org/people/yu-ding/"
+                href="https://www.bmd-lab.org/yu-ding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/yu-ding/"
+                href="https://www.bmd-lab.org/zh/yu-ding/"
                 />
   </url>
   
@@ -138,6 +138,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/zh/people/wenjun-zhang/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/wenjun-zhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/wenjun-zhang/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/zh/</loc>
     <lastmod>2019-09-19T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -188,6 +203,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/zh/alumni/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/alumni/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/alumni/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/zh/news/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -199,21 +229,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/news/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/zh/tags/student/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/student/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/student/"
                 />
   </url>
   
@@ -234,6 +249,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/news/full-list/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/zh/alumni/full-list/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/alumni/full-list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/alumni/full-list/"
                 />
   </url>
   
@@ -459,6 +489,21 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/members/michaelstaines/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/zh/members/wenjunzhang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/wenjunzhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/members/wenjunzhang/"
                 />
   </url>
   
@@ -714,6 +759,20 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.bmd-lab.org/zh/author/michaelstaines/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/zh/author/wenjunzhang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/wenjunzhang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/author/wenjunzhang/"
                 />
   </url>
   

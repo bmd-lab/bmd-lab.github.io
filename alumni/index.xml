@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alumnis on BMD-lab</title>
+    <link>https://www.bmd-lab.org/alumni/</link>
+    <description>Recent content in Alumnis on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/alumni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alumni and previous group members</title>
+      <link>https://www.bmd-lab.org/alumni/full-list/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/alumni/full-list/</guid>
+      <description>See below for full list of previous group members
+   Name Role &amp;nbsp; &amp;nbsp; &amp;nbsp; Dates &amp;nbsp; &amp;nbsp;     Yu Ding Research Assistant Apr. 2020 - Sept. 2021    
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+  
+&amp;times;   &amp;times;</description>
+    </item>
+    
+  </channel>
+</rss>
