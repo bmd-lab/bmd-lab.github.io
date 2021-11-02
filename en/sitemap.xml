@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/yu-ding/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/yu-ding/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/yu-ding/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/people/cuicui-wang/</loc>
     <lastmod>2019-09-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -119,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/people/yanzhen-zhao/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/people/michael-staines/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/michael-staines/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/people/michael-staines/"
                 />
   </url>
   
@@ -268,17 +238,17 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/files/</loc>
+    <loc>https://www.bmd-lab.org/resources/</loc>
     <lastmod>2019-05-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.bmd-lab.org/zh/files/"
+                href="https://www.bmd-lab.org/zh/resources/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bmd-lab.org/files/"
+                href="https://www.bmd-lab.org/resources/"
                 />
   </url>
   
