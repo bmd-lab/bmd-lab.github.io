@@ -6,7 +6,7 @@
     <description>Recent content on BMD-lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="https://www.bmd-lab.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -82,6 +82,26 @@
       
       <guid>https://www.bmd-lab.org/people/wenjun-zhang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3</title>
+      <link>https://www.bmd-lab.org/featured/article/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/featured/article/</guid>
+      <description>&lt;p&gt;The newly discovered electride Sr&lt;sub&gt;3&lt;/sub&gt;CrN&lt;sub&gt;3&lt;/sub&gt; has a honeycomb structure with channels that permeate throughout. It is found that these channels possess almost ideal properties for hydride ion transport as evidenced by the lowest activation energy ever reported. This finding is likely to be of significance in fuel-cell or energy-storage applications due to the universal availability of hydrogen. More broadly, the study highlights the potential importance of electrides to a clean energy future.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3</title>
+      <link>https://www.bmd-lab.org/papers/journal-article/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.bmd-lab.org/papers/journal-article/</guid>
+      <description>&lt;p&gt;The newly discovered electride Sr&lt;sub&gt;3&lt;/sub&gt;CrN&lt;sub&gt;3&lt;/sub&gt; has a honeycomb structure with channels that permeate throughout. It is found that these channels possess almost ideal properties for hydride ion transport as evidenced by the lowest activation energy ever reported. This finding is likely to be of significance in fuel-cell or energy-storage applications due to the universal availability of hydrogen. More broadly, the study highlights the potential importance of electrides to a clean energy future.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -701,26 +721,6 @@
       
       <guid>https://www.bmd-lab.org/members/zhikunyao/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Data-Mining Element Charges in Inorganic Materials</title>
-      <link>https://www.bmd-lab.org/featured/article/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.bmd-lab.org/featured/article/</guid>
-      <description>&lt;p&gt;In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Data-Mining Element Charges in Inorganic Materials</title>
-      <link>https://www.bmd-lab.org/papers/journal-article/</link>
-      <pubDate>Wed, 10 Oct 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://www.bmd-lab.org/papers/journal-article/</guid>
-      <description>&lt;p&gt;In this paper, we data-mine more than 168,000 crystallographic reports to find an optimal allocation of charges for each element. In doing so, we uncover discrepancies between textbook chemistry and reported charge states observed in materials. We go on to show how the oxidation states we recommend can significantly facilitate materials discovery and the heuristic design of novel inorganic compounds.&lt;/p&gt;
-</description>
     </item>
     
     <item>

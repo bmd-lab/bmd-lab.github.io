@@ -123,8 +123,38 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/publication_types/2/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/authors/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/authors/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/</loc>
-    <lastmod>2019-09-19T00:00:00+01:00</lastmod>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -134,6 +164,111 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/featured/article/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/featured/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/featured/article/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/papers/journal-article/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/papers/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/papers/journal-article/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/materials/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/tags/materials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/tags/materials/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/publication_types/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/featured/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/featured/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/featured/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/papers/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/papers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/papers/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/tags/</loc>
+    <lastmod>2022-05-01T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/tags/"
                 />
   </url>
   
@@ -155,21 +290,6 @@
   <url>
     <loc>https://www.bmd-lab.org/tags/staff/</loc>
     <lastmod>2019-09-19T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/tags/</loc>
-    <lastmod>2019-09-19T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/"
-                />
   </url>
   
   <url>
@@ -253,21 +373,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/papers/</loc>
-    <lastmod>2019-05-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/papers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/papers/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/papers/full-list/</loc>
     <lastmod>2019-05-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -309,21 +414,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/authors/admin/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/authors/"
                 />
   </url>
   
@@ -539,96 +629,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/members/zhikunyao/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/publication_types/2/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/publication_types/2/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/featured/article/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/featured/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/featured/article/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/papers/journal-article/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/papers/journal-article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/papers/journal-article/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/tags/materials/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/tags/materials/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/tags/materials/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/publication_types/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/featured/</loc>
-    <lastmod>2018-10-10T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/featured/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/featured/"
                 />
   </url>
   
