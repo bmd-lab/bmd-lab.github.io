@@ -33,21 +33,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/people/cuicui-wang/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/cuicui-wang/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/people/cuicui-wang/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/featured_news/nsfcaward/</loc>
     <lastmod>2019-04-17T00:00:00+01:00</lastmod>
     <xhtml:link
@@ -63,17 +48,17 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/people/miaoting-xu/</loc>
-    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <loc>https://www.bmd-lab.org/featured_news/nsfcaward2/</loc>
+    <lastmod>2019-04-17T00:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://www.bmd-lab.org/zh/people/miaoting-xu/"
+                href="https://www.bmd-lab.org/zh/featured_news/nsfcaward2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.bmd-lab.org/people/miaoting-xu/"
+                href="https://www.bmd-lab.org/featured_news/nsfcaward2/"
                 />
   </url>
   
@@ -119,6 +104,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/people/wenjun-zhang/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/yanle-liang/</loc>
+    <lastmod>2019-09-17T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/people/yanle-liang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/yanle-liang/"
                 />
   </url>
   
@@ -588,6 +588,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/members/yanleliang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/members/yanleliang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/yanleliang/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/members/yanzhenzhao/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -762,6 +777,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/author/xiaoyan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/author/yanleliang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://www.bmd-lab.org/zh/author/yanleliang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/yanleliang/"
                 />
   </url>
   
