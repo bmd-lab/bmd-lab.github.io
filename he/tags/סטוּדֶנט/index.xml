@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>סטוּדֶנט on BMD-lab</title>
+    <link>https://www.bmd-lab.org/he/tags/%D7%A1%D7%98%D7%95%D6%BC%D7%93%D6%B6%D7%A0%D7%98/</link>
+    <description>Recent content in סטוּדֶנט on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/he/tags/%D7%A1%D7%98%D7%95%D6%BC%D7%93%D6%B6%D7%A0%D7%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zhikun Yao</title>
+      <link>https://www.bmd-lab.org/he/people/zhikun-yao/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/zhikun-yao/</guid>
+      <description>Zhikun Yao הוא סטודנט לתואר שני ב-BMD</description>
+    </item>
+    
+    <item>
+      <title>Yanzhen Zhao</title>
+      <link>https://www.bmd-lab.org/he/people/yanzhen-zhao/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/yanzhen-zhao/</guid>
+      <description>Yanzhen Zhao הוא סטודנט לתואר שני ב-BMD</description>
+    </item>
+    
+    <item>
+      <title>Wenjun Zhang</title>
+      <link>https://www.bmd-lab.org/he/people/wenjun-zhang/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/wenjun-zhang/</guid>
+      <description>Wenjun Zhang הוא סטודנט לתואר שני ב-BMD</description>
+    </item>
+    
+  </channel>
+</rss>

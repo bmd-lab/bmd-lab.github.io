@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alumnis on BMD-lab</title>
+    <link>https://www.bmd-lab.org/he/alumni/</link>
+    <description>Recent content in Alumnis on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/he/alumni/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>בוגרים וחברי קבוצה קודמים</title>
+      <link>https://www.bmd-lab.org/he/alumni/full-list/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/alumni/full-list/</guid>
+      <description>ראה להלן רשימה של חברי קבוצה לשעבר
+   שֵׁם תַפְקִיד &amp;nbsp; &amp;nbsp; &amp;nbsp; תַאֲרִיך &amp;nbsp; &amp;nbsp;     Miaoting Xu סטודנט לתואר שני ב-BMD 09/2019 - 07/2022   Cuicui Wang סטודנט לתואר שני ב-BMD 09/2019 - 07/2022   Xiaoyan Gao עוזר אדמיניסטרטיבי&amp;amp;nbsp 03/2019 - 07/2021   Michael Staines מתמחה במחקר של BMD 06/2021 - 09/2021   Yu Ding עוזר מחקר של BMD 04/2020 - 09/2021</description>
+    </item>
+    
+  </channel>
+</rss>

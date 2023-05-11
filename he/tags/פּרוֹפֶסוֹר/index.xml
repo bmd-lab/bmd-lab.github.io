@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>פּרוֹפֶסוֹר on BMD-lab</title>
+    <link>https://www.bmd-lab.org/he/tags/%D7%A4%D6%BC%D7%A8%D7%95%D6%B9%D7%A4%D6%B6%D7%A1%D7%95%D6%B9%D7%A8/</link>
+    <description>Recent content in פּרוֹפֶסוֹר on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Mon, 18 Jun 2012 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/he/tags/%D7%A4%D6%BC%D7%A8%D7%95%D6%B9%D7%A4%D6%B6%D7%A1%D7%95%D6%B9%D7%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lee A. Burton</title>
+      <link>https://www.bmd-lab.org/he/people/lee-burton/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/lee-burton/</guid>
+      <description>לי ברטון הוא החוקר הראשי של BMD</description>
+    </item>
+    
+  </channel>
+</rss>

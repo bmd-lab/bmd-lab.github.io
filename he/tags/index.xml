@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BMD-lab</title>
+    <link>https://www.bmd-lab.org/he/tags/</link>
+    <description>Recent content in Tags on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/he/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Materials</title>
+      <link>https://www.bmd-lab.org/he/tags/materials/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/tags/materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>סטוּדֶנט</title>
+      <link>https://www.bmd-lab.org/he/tags/%D7%A1%D7%98%D7%95%D6%BC%D7%93%D6%B6%D7%A0%D7%98/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/tags/%D7%A1%D7%98%D7%95%D6%BC%D7%93%D6%B6%D7%A0%D7%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Award</title>
+      <link>https://www.bmd-lab.org/he/tags/award/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/tags/award/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>פּרוֹפֶסוֹר</title>
+      <link>https://www.bmd-lab.org/he/tags/%D7%A4%D6%BC%D7%A8%D7%95%D6%B9%D7%A4%D6%B6%D7%A1%D7%95%D6%B9%D7%A8/</link>
+      <pubDate>Mon, 18 Jun 2012 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/tags/%D7%A4%D6%BC%D7%A8%D7%95%D6%B9%D7%A4%D6%B6%D7%A1%D7%95%D6%B9%D7%A8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

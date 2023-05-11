@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on BMD-lab</title>
+    <link>https://www.bmd-lab.org/he/news/</link>
+    <description>Recent content in Posts on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/he/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>כל החדשות</title>
+      <link>https://www.bmd-lab.org/he/news/full-list/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/news/full-list/</guid>
+      <description>请参阅以下最新新闻的完整列表 | Date &amp;nbsp; &amp;nbsp; &amp;nbsp; | News | | ------------ | ---------- | | 01/ &amp;nbsp; 2023 | [לי ברטון](/he/members/lee) מתחיל כמרצה בכיר באוניברסיטת תל אביב | | 12/ &amp;nbsp; 2022 | [Wenjun Zhang](/he/members/wenjunzhang) זוכה ב-[פרס](/img/WZ_certificate.pdf) לתחרות דוגמנות במתמטיקה לתואר שני בסין. | | 10/ &amp;nbsp; 2022 | [Cuicui Wang](/he/members/cuicui) מסיים בהצלחה את לימודיו ב-BMD. התזה שלה זמינה בדף [משאבים](/resources/). | | | 07/ &amp;nbsp; 2022 | | [לי ברטון](/he/members/lee) הוא דובר מוזמן לסמינר מחלקתי באימפריאל קולג&#39; בלונדון (תמונה)。 | | 06/ &amp;nbsp; 2022 | [Miaoting Xu](/he/members/miaoting) מסיים בהצלחה את BMD.</description>
+    </item>
+    
+    <item>
+      <title>Lee Burton wins Eastern Young Scholar Award 2018</title>
+      <link>https://www.bmd-lab.org/he/news/eysaward/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/news/eysaward/</guid>
+      <description>The Eastern Young Scholar award is a 3-year early-career fellowship for scientists working in the east of China.</description>
+    </item>
+    
+    <item>
+      <title>סרטון תכונה BMD</title>
+      <link>https://www.bmd-lab.org/he/news/bmd_video/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/news/bmd_video/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Lee Burton wins EU Seal of Excellence award 2017</title>
+      <link>https://www.bmd-lab.org/he/news/soeaward/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/news/soeaward/</guid>
+      <description>The Seal of Excellence award is issued by the European Commission as an endorsement of scientists for future grant applications.</description>
+    </item>
+    
+  </channel>
+</rss>

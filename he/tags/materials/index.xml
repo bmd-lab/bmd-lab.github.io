@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Materials on BMD-lab</title>
+    <link>https://www.bmd-lab.org/he/tags/materials/</link>
+    <description>Recent content in Materials on BMD-lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>he</language>
+    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.bmd-lab.org/he/tags/materials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3</title>
+      <link>https://www.bmd-lab.org/he/featured/article/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/featured/article/</guid>
+      <description>במאמר זה, אנו מוצאים שלחומר חדש יש אולי את התכונות האידיאליות ביותר להובלת יוני הידריד שדווחו אי פעם.</description>
+    </item>
+    
+    <item>
+      <title>Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3</title>
+      <link>https://www.bmd-lab.org/he/papers/journal-article/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/papers/journal-article/</guid>
+      <description>במאמר זה, אנו מוצאים שלחומר חדש יש אולי את התכונות האידיאליות ביותר להובלת יוני הידריד שדווחו אי פעם.</description>
+    </item>
+    
+  </channel>
+</rss>
