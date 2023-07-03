@@ -18,36 +18,6 @@
   </url>
   
   <url>
-    <loc>https://www.bmd-lab.org/he/featured_news/nsfcaward/</loc>
-    <lastmod>2019-04-17T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/featured_news/nsfcaward/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://www.bmd-lab.org/he/featured_news/nsfcaward/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/he/featured_news/nsfcaward2/</loc>
-    <lastmod>2019-04-17T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/featured_news/nsfcaward2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://www.bmd-lab.org/he/featured_news/nsfcaward2/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.bmd-lab.org/he/people/zhikun-yao/</loc>
     <lastmod>2019-09-17T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -63,6 +33,36 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/he/featured_news/nsfcaward/</loc>
+    <lastmod>2019-04-17T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/featured_news/nsfcaward/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/featured_news/nsfcaward/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/he/people/daniil-belazovschi/</loc>
+    <lastmod>2012-06-18T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/daniil-belazovschi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/people/daniil-belazovschi/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/he/people/yanzhen-zhao/</loc>
     <lastmod>2019-09-17T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -74,6 +74,21 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://www.bmd-lab.org/he/people/yanzhen-zhao/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/he/featured_news/nsfcaward2/</loc>
+    <lastmod>2019-04-17T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/featured_news/nsfcaward2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/featured_news/nsfcaward2/"
                 />
   </url>
   
@@ -488,6 +503,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/he/members/daniil/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/daniil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/members/daniil/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/he/members/lee/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -638,6 +668,21 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/he/tags/student/</loc>
+    <lastmod>2012-06-18T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/tags/student/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/tags/student/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/he/tags/%D7%A4%D6%BC%D7%A8%D7%95%D6%B9%D7%A4%D6%B6%D7%A1%D7%95%D6%B9%D7%A8/</loc>
     <lastmod>2012-06-18T00:00:00+03:00</lastmod>
   </url>
@@ -667,6 +712,20 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://www.bmd-lab.org/he/author/cuicui/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/he/author/daniil/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/daniil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/author/daniil/"
                 />
   </url>
   
