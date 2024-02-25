@@ -6,10 +6,28 @@
     <description>Recent content in Student on BMD-lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>he</language>
-    <lastBuildDate>Mon, 18 Jun 2012 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://www.bmd-lab.org/he/tags/student/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nadav Moav</title>
+      <link>https://www.bmd-lab.org/he/people/nadav-moav/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/nadav-moav/</guid>
+      <description>Nadav Moav is a fast-track master student in BMD</description>
+    </item>
+    
+    <item>
+      <title>Roee Asher</title>
+      <link>https://www.bmd-lab.org/he/people/roee-asher/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/roee-asher/</guid>
+      <description>Roee Asher is a fast-track master student in BMD</description>
+    </item>
     
     <item>
       <title>Daniil Belazovschi</title>
@@ -18,6 +36,15 @@
       
       <guid>https://www.bmd-lab.org/he/people/daniil-belazovschi/</guid>
       <description>דניאל הוא סטודנט לתואר שני</description>
+    </item>
+    
+    <item>
+      <title>Muhammad Jabaly</title>
+      <link>https://www.bmd-lab.org/he/people/muhammad-jabaly/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
+      
+      <guid>https://www.bmd-lab.org/he/people/muhammad-jabaly/</guid>
+      <description>Muhammad Jabaly is a PhD student in BMD</description>
     </item>
     
   </channel>

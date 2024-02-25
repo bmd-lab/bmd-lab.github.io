@@ -18,6 +18,51 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/people/muhammad-jabaly/</loc>
+    <lastmod>2019-09-17T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/people/muhammad-jabaly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/muhammad-jabaly/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/nadav-moav/</loc>
+    <lastmod>2019-09-17T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/people/nadav-moav/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/nadav-moav/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/people/roee-asher/</loc>
+    <lastmod>2019-09-17T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/people/roee-asher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/people/roee-asher/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/people/zhikun-yao/</loc>
     <lastmod>2019-09-17T00:00:00+03:00</lastmod>
     <xhtml:link
@@ -59,21 +104,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/people/daniil-belazovschi/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.bmd-lab.org/people/yanzhen-zhao/</loc>
-    <lastmod>2019-09-17T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://www.bmd-lab.org/he/people/yanzhen-zhao/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.bmd-lab.org/people/yanzhen-zhao/"
                 />
   </url>
   
@@ -573,6 +603,51 @@
   </url>
   
   <url>
+    <loc>https://www.bmd-lab.org/members/muhammadjabaly/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/members/muhammadjabaly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/muhammadjabaly/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/members/nadavmoav/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/members/nadavmoav/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/nadavmoav/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/members/roeeasher/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/members/roeeasher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/members/roeeasher/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.bmd-lab.org/members/wenjunzhang/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -763,6 +838,48 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.bmd-lab.org/author/michaelstaines/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/author/muhammadjabaly/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/author/muhammadjabaly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/muhammadjabaly/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/author/nadavmoav/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/author/nadavmoav/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/nadavmoav/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.bmd-lab.org/author/roeeasher/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://www.bmd-lab.org/he/author/roeeasher/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.bmd-lab.org/author/roeeasher/"
                 />
   </url>
   
