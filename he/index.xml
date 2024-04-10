@@ -6,7 +6,7 @@
     <description>Recent content on BMD-lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>he</language>
-    <lastBuildDate>Sun, 01 May 2022 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0300</lastBuildDate>
     
 	    <atom:link href="https://www.bmd-lab.org/he/index.xml" rel="self" type="application/rss+xml" />
     
@@ -67,15 +67,6 @@
     </item>
     
     <item>
-      <title>Yanzhen Zhao</title>
-      <link>https://www.bmd-lab.org/he/people/yanzhen-zhao/</link>
-      <pubDate>Tue, 17 Sep 2019 00:00:00 +0300</pubDate>
-      
-      <guid>https://www.bmd-lab.org/he/people/yanzhen-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>לי ברטון זוכה בפרס NSFC International Young Scientists לשנת 2019</title>
       <link>https://www.bmd-lab.org/he/featured_news/nsfcaward2/</link>
       <pubDate>Sat, 20 Apr 2019 00:00:00 +0300</pubDate>
@@ -104,12 +95,12 @@
     </item>
     
     <item>
-      <title>Hydride Ion Intercalation and Conduction in the Electride Sr3CrN3</title>
+      <title>Predicting two-dimensional semiconductors using conductivity effective mass</title>
       <link>https://www.bmd-lab.org/he/featured/article/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0300</pubDate>
       
       <guid>https://www.bmd-lab.org/he/featured/article/</guid>
-      <description>&lt;p&gt;לאלקטריד החדש שהתגלה Sr&lt;sub&gt;3&lt;/sub&gt;CrN&lt;sub&gt;3&lt;/sub&gt; יש מבנה חלת דבש עם ערוצים שמחלחלים לכל אורכו. נמצא כי לערוצים אלה יש תכונות כמעט אידיאליות להובלת יוני הידריד כפי שמעידה אנרגיית ההפעלה הנמוכה ביותר שדווחה אי פעם. ממצא זה עשוי להיות בעל משמעות ביישומי תאי דלק או אחסון אנרגיה בשל הזמינות האוניברסלית של מימן. באופן רחב יותר, המחקר מדגיש את החשיבות הפוטנציאלית של אלקטרידים לעתיד של אנרגיה נקייה.&lt;/p&gt;
+      <description>&lt;p&gt;We investigate the relationship between the conductivity effective mass and exfoliation energy of materials to assess whether automatic sampling of the electron band structure can predict the presence of and ease of separating chemically bonded layers. We assess 22,976 materials from the Materials Project database, screen for only those that are thermodynamically stable and identify the 1,000 materials with the highest standard deviation for p-type and the 1,000 materials with the highest standard deviation for n-type internal conductivity effective mass tensors. We calculate the exfoliation energy of these 2,000 materials and report on the correlation between effective mass and exfoliation energy. A relationship is found which is used to identify a previously unconsidered two-dimensional material and could streamline the modelling of other two-dimensional materials in the future.&lt;/p&gt;
 </description>
     </item>
     
